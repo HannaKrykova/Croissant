@@ -12,8 +12,8 @@ footer {
 }
 
 .footer a {
-  color: darkgreen;
-  margin-right: 20px;
+  color: green;
+  margin: 0px 10px auto;
 }
 
 .croissant-photo {
